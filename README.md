@@ -1,2 +1,1 @@
 This is a real time chat application using nodejs and socket.io.
-It is working but i cant deploy it on heroku because of socket.io has certain syntax so if someone can help me deploy it that would be great
